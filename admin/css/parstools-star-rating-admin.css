@@ -1,0 +1,56 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.theme
+{
+	margin:0 10px 5px 0;
+	max-height:64px;
+	display:inline-block;
+	padding:10px;
+	
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #FFF;
+}
+
+h2.nav-tab-wrapper {
+	margin:22px 0 0 0;
+}
+
+#sections {
+	padding:22px;
+	border:1px solid #ccc;
+	border-top:0px;
+}
+
+section {
+	display:none;
+}
+
+section:first-child {
+	display:block;
+}
+
+
+.no-js h2.nav-tab-wrapper {
+	display:none;
+}
+
+.no-js #sections {
+	border-top:1px solid #ccc;
+	margin-top:22px;
+}
+
+.no-js section {
+	border-top: 1px dashed #aaa;
+	margin-top:22px;
+	padding-top:22px;
+}
+
+.no-js section:first-child {
+	margin:0px;
+	padding:0px;
+	border:0px;
+}

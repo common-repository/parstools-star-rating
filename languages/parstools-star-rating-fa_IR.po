@@ -1,0 +1,977 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zM AJAX Login & Register\n"
+"POT-Creation-Date: 2016-07-05 11:00+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-parstools-star-rating-admin.php:95
+msgid ""
+"Thank you for using <a target=\"_blank\" href=\"http://parstools.com/?"
+"p=4705\">Parstools star rating</a>.<br />Please go to <a href=\"options-"
+"general.php?page=parstools_star_rating_options\">settings</a> page and "
+"choose theme and position of rate."
+msgstr ""
+"از اینکه از افزونه <a target=\"_blank\" href=\"http://parstools.com/?"
+"p=4705\">امتیازدهی پارس تولز</a> استفاده می کنید سپاس گذاریم.<br />برای "
+"تنظیم تم و موقعیت نمایش ابزار امتیازدهی به صفحه <a href=\"options-general."
+"php?page=parstools_star_rating_options\">تنظیمات</a> بروید."
+
+#: admin/class-parstools-star-rating-admin.php:160
+#: admin/class-parstools-star-rating-admin.php:175
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: admin/class-parstools-star-rating-admin.php:165
+#: admin/class-parstools-star-rating-admin.php:172
+msgid "Parstools Star Rating"
+msgstr ""
+
+#: admin/class-parstools-star-rating-admin.php:176
+msgid "Other Plugins"
+msgstr "دیگر پلاگین ها"
+
+#: admin/class-parstools-star-rating-admin.php:184
+msgid "Theme: "
+msgstr "تم:"
+
+#: admin/class-parstools-star-rating-admin.php:258
+msgid "Position: "
+msgstr "موقعیت:"
+
+#: admin/class-parstools-star-rating-admin.php:262
+msgid "Before Content"
+msgstr "قبل از محتوا"
+
+#: admin/class-parstools-star-rating-admin.php:263
+msgid "After Content"
+msgstr "بعد از محتوا"
+
+#: admin/class-parstools-star-rating-admin.php:264
+msgid "Manual"
+msgstr "دستی"
+
+#: admin/class-parstools-star-rating-admin.php:268
+msgid "Left"
+msgstr "چپ"
+
+#: admin/class-parstools-star-rating-admin.php:269
+msgid "Right"
+msgstr "راست"
+
+#: admin/class-parstools-star-rating-admin.php:270
+msgid "Center"
+msgstr "وسط"
+
+#: admin/class-parstools-star-rating-admin.php:272
+msgid ""
+"Select where would you like to display the rate. Use [prw] shortcode for "
+"manual display."
+msgstr ""
+"موقعیت قرارگیری ابزارک امتیازدهی را مشخص کنید.در صورتی که گزینه دستی را "
+"انتخاب کنید باید با استفاده از شورتکد <pre style=\"direction:ltr;display:"
+"inline\">[prw]</pre> مکان قرارگیری ابزارک را مشخص کنید."
+
+#: admin/class-parstools-star-rating-admin.php:275
+msgid "Language: "
+msgstr "زبان:"
+
+#: admin/class-parstools-star-rating-admin.php:278
+msgid "Persian"
+msgstr "پارسی"
+
+#: admin/class-parstools-star-rating-admin.php:279
+msgid "English"
+msgstr "انگلیسی"
+
+#: admin/class-parstools-star-rating-admin.php:283
+msgid "Show Tops: "
+msgstr "نمایش برترین مطالب:"
+
+#: admin/class-parstools-star-rating-admin.php:286
+msgid ""
+"By enabling this option a link for view all rates will be added to submit "
+"rate page."
+msgstr ""
+"با فعال کردن این گزینه، در صفحه ثبت امتیاز یک لینک برای مشاهده تمام آرا ثبت "
+"شده اضافه خواهد شد."
+
+#: admin/class-parstools-star-rating-admin.php:290
+msgid "Show in: "
+msgstr "نمایش در:"
+
+#: admin/class-parstools-star-rating-admin.php:293
+msgid "Archive "
+msgstr "آرشیو"
+
+#: admin/class-parstools-star-rating-admin.php:295
+msgid "Front Page "
+msgstr "صفحه نخست"
+
+#: admin/class-parstools-star-rating-admin.php:297
+msgid "Single Post"
+msgstr "پست"
+
+#: admin/class-parstools-star-rating-admin.php:302
+msgid "Show in post types: "
+msgstr "نمایش در پست های نوع:"
+
+#: admin/class-parstools-star-rating-admin.php:322
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: admin/class-parstools-star-rating-admin.php:339
+msgid ""
+"More tools and widget in <a href=\"http://parstools.com\">Parstools.com</a>"
+msgstr ""
+" برای دریافت افزونه های جدید و متنوع به <a href=\"http://parstools.com"
+"\">پارس تولز</a> سر بزنید."
+
+#~ msgid "dismiss"
+#~ msgstr "dismiss"
+
+#~ msgid ""
+#~ "Thank you for using <a target=\"_blank\" href=\"http://parstools.com/?"
+#~ "p=4714\">Parstools star rating</a>.<br />Please go to <a href=\"options-"
+#~ "general.php?page=parstools_star_rating_options\">settings</a> page and "
+#~ "choose theme and position of rate."
+#~ msgstr ""
+#~ "از اینکه از افزونه <a target=\"_blank\" href=\"http://parstools.com/?"
+#~ "p=4714\">امتیازدهی پارس تولز</a> استفاده می کنید سپاس گذاریم.<br />برای "
+#~ "تنظیم تم و موقعیت نمایش ابزار امتیازدهی به صفحه <a href=\"options-general."
+#~ "php?page=parstools_star_rating_options\">تنظیمات</a> بروید."
+
+#~ msgid ""
+#~ "Thank you for using <a target=\"_blank\" href=\"http://parstools.com/?"
+#~ "p=4714\">Parstools like dislike voting</a>.<br />Please go to <a href="
+#~ "\"options-general.php?page=parstools_like_dislike_voting_options"
+#~ "\">settings</a> page and choose theme and position of vote."
+#~ msgstr ""
+#~ "از اینکه از افزونه <a target=\"_blank\" href=\"http://parstools.com/?"
+#~ "p=4714\">رای گیری پارس تولز</a> استفاده می کنید سپاس گذاریم.<br />برای "
+#~ "تنظیم تم و موقعیت نمایش ابزار رای گیری به صفحه <a href=\"options-general."
+#~ "php?page=parstools_like_dislike_voting_options\">تنظیمات</a> بروید."
+
+#~ msgid ""
+#~ "Select where would you like to display the vote. Use [pvw] shortcode for "
+#~ "manual display."
+#~ msgstr ""
+#~ "موقعیت قرارگیری ابزارک رای گیری را مشخص کنید.در صورتی که گزینه دستی را "
+#~ "انتخاب کنید باید با استفاده از شورتکد <pre style=\"direction:ltr;display:"
+#~ "inline\">[pvw]</pre> مکان قرارگیری ابزارک را مشخص کنید."
+
+#~ msgid ""
+#~ "By enabling this option a link for view all votes will be added to submit "
+#~ "vote page."
+#~ msgstr ""
+#~ "با فعال کردن این گزینه، در صفحه ثبت رای یک لینک برای مشاهده تمام آرا ثبت "
+#~ "شده اضافه خواهد شد."
+
+#~ msgid ""
+#~ "Thank you for using <a target=\"_blank\" href=\"http://parstools.com/?"
+#~ "p=4714\">Parstools vote widget</a>.<br />Please go to <a href=\"options-"
+#~ "general.php?page=parstools_vote_widget_options\">settings</a> page and "
+#~ "choose theme and position of vote."
+#~ msgstr ""
+#~ "از اینکه از افزونه <a target=\"_blank\" href=\"http://parstools.com/?"
+#~ "p=4714\">رای گیری پارس تولز</a> استفاده می کنید سپاس گذاریم.<br />برای "
+#~ "تنظیم تم و موقعیت نمایش ابزار رای گیری به صفحه <a href=\"options-general."
+#~ "php?page=parstools_vote_widget_options\">تنظیمات</a> بروید."
+
+#~ msgid "Vote Widget Options"
+#~ msgstr "تنظیمات رای گیری"
+
+#~ msgid ""
+#~ "Thank you for using <a href=\"http://parstools.com/?p=4714\">Parstools "
+#~ "vote widget</a>.<br />Please go to <a href=\"options-general.php?"
+#~ "page=parstools_vote_widget_options\">settings</a> page and choose theme "
+#~ "and position of vote."
+#~ msgstr ""
+#~ "از اینکه از افزونه <a href=\"http://parstools.com/?p=4714\">رای گیری پارس "
+#~ "تولز</a> استفاده می کنید سپاس گذاریم.<br />برای تنظیم تم و موقعیت نمایش "
+#~ "ابزار رای گیری به صفحه <a href=\"options-general.php?"
+#~ "page=parstools_vote_widget_options\">تنظیمات</a> بروید."
+
+#~ msgid "Shortcode"
+#~ msgstr "ShortCode"
+
+#~ msgid "Please select theme"
+#~ msgstr "لطفا تم را انتخاب کنید."
+
+#~ msgid "Please select position"
+#~ msgstr "لطفا موقعیت را انتخاب کنید."
+
+#~ msgid "Save Changes"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid ""
+#~ "More tools and widget in <a href=\"http://parstools.com\">پارس تولز</a>"
+#~ msgstr ""
+#~ " برای دریافت ابزار های جدید و متنوع به <a href=\"http://parstools.com"
+#~ "\">پارس تولز</a> سر بزنید."
+
+#~ msgid "After Title"
+#~ msgstr "بعد از عنوان"
+
+#~ msgid "In archive: "
+#~ msgstr "آرشیو"
+
+#~ msgid "Ad not found"
+#~ msgstr "تبیلغ یافت نشد."
+
+#~ msgid "Add Ad"
+#~ msgstr "افزودن تبلیغ"
+
+#~ msgid "Please first add site"
+#~ msgstr "لطفا ابتدا سایت خود را ثبت کنید."
+
+#~ msgid "Select ad type"
+#~ msgstr "نوع تبلیغ را انتخاب کنید"
+
+#~ msgid "Text ad"
+#~ msgstr "متنی"
+
+#~ msgid "Banner ad"
+#~ msgstr "بنری"
+
+#~ msgid "You Can Not See This Page"
+#~ msgstr "شما نمیتوانید این صفحه را ببینید."
+
+#~ msgid "Cat not found"
+#~ msgstr "دسته یافت نشد."
+
+#~ msgid "Add Cat"
+#~ msgstr "افزودن دسته"
+
+#~ msgid "Please fill the form"
+#~ msgstr "لطفا فرم را تکمیل کنید."
+
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Save"
+#~ msgstr "ذخیره"
+
+#~ msgid "Add HTML Ad"
+#~ msgstr "افزودن تبلیغ HTML"
+
+#~ msgid "Place"
+#~ msgstr "جایگاه"
+
+#~ msgid "Code"
+#~ msgstr "کد"
+
+#~ msgid "Sorry,Type not found"
+#~ msgstr "نوع موجود نیست."
+
+#~ msgid "Type not found, pleas select another type"
+#~ msgstr "نوع یافت نشد، لطفا یک نوع دیگر انتخاب کنید."
+
+#~ msgid "Add Image Ad"
+#~ msgstr "افزودن تبلیغ بنری"
+
+#~ msgid "Allowed formats"
+#~ msgstr "فرمت های مجاز"
+
+#~ msgid "Banner"
+#~ msgstr "بنر"
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "Cats"
+#~ msgstr "دسته ها"
+
+#~ msgid "Select All"
+#~ msgstr "انتخاب همه"
+
+#~ msgid "Choose File"
+#~ msgstr "انتخاب فایل"
+
+#~ msgid "Change File"
+#~ msgstr "تغییر فایل"
+
+#~ msgid "Site not found"
+#~ msgstr "سایت یافت نشد."
+
+#~ msgid "Add Site"
+#~ msgstr "افزودن سایت"
+
+#~ msgid "Domain"
+#~ msgstr "دامین"
+
+#~ msgid ""
+#~ "You can enter a domain like \"domain.com\" or sub domain like \"sub."
+#~ "domain.com\""
+#~ msgstr ""
+#~ "شما می توانید یک دامین مانند \"domain.com\" یا ساب دامین مثل \"sub.domain."
+#~ "com\" وارد کنید."
+
+#~ msgid "Add Text Ad"
+#~ msgstr "افزودن تبلیغ متنی"
+
+#~ msgid "char remaining"
+#~ msgstr "کارکتر باقی مانده"
+
+#~ msgid "Description"
+#~ msgstr "توضیح"
+
+#~ msgid "Button text"
+#~ msgstr "متن دکمه"
+
+#~ msgid "Orange"
+#~ msgstr "پیش فرض"
+
+#~ msgid "Emerald"
+#~ msgstr "زمردی"
+
+#~ msgid "Blue"
+#~ msgstr "آبی"
+
+#~ msgid "Violet"
+#~ msgstr "بنفش"
+
+#~ msgid "Dark"
+#~ msgstr "تیره"
+
+#~ msgid "Red"
+#~ msgstr "قرمز"
+
+#~ msgid "Color scheme"
+#~ msgstr "رنگ بندی"
+
+#~ msgid "Preview"
+#~ msgstr "پیش نمایش"
+
+#~ msgid "type not found"
+#~ msgstr "نوع یافت نشد"
+
+#~ msgid "Add Type"
+#~ msgstr "افزودن نوع"
+
+#~ msgid "Primary"
+#~ msgstr "اصلی"
+
+#~ msgid "Type"
+#~ msgstr "نوع"
+
+#~ msgid "Lightbox"
+#~ msgstr "لایت باکس"
+
+#~ msgid "Fix"
+#~ msgstr "شناور"
+
+#~ msgid "Name cannot change,because created table in db with same name"
+#~ msgstr "به دلیل ساخت جدول در دیتابیس با این نام، نام نوع قابل تغییر نیست."
+
+#~ msgid "File Name"
+#~ msgstr "نام فایل"
+
+#~ msgid "Width"
+#~ msgstr "عرض"
+
+#~ msgid "Height"
+#~ msgstr "طول"
+
+#~ msgid "Max title length"
+#~ msgstr "حداکثر طول عنوان"
+
+#~ msgid "Limit"
+#~ msgstr "محدودیت"
+
+#~ msgid "Mobile"
+#~ msgstr "موبایل"
+
+#~ msgid "Click Cost"
+#~ msgstr "هزینه هر کلیک"
+
+#~ msgid "Click Earn"
+#~ msgstr "درآمد هر کلیک"
+
+#~ msgid "Show Earn"
+#~ msgstr "درآمد نمایش"
+
+#~ msgid "(char)"
+#~ msgstr "(کاراکتر)"
+
+#~ msgid "Max description length"
+#~ msgstr "حداکثر طول توضیح"
+
+#~ msgid "Max button length"
+#~ msgstr "حداکثر طول متن دکمه"
+
+#~ msgid "Max banner size"
+#~ msgstr "حداکثر حجم بنر"
+
+#~ msgid "Only english chars"
+#~ msgstr "فقط کاراکترهای انگلیسی"
+
+#~ msgid "user not found"
+#~ msgstr "کاربر یافت نشد"
+
+#~ msgid "Define user credit"
+#~ msgstr "تعریف اعتبار کاربر"
+
+#~ msgid "User not selected, first select user form "
+#~ msgstr "کاربر انتخاب نشده، لطفا از \"لیست کاربران\" کاربر را انتخاب کنید."
+
+#~ msgid "Users List"
+#~ msgstr "لیست کاربران"
+
+#~ msgid "User Name"
+#~ msgstr "نام کاربری"
+
+#~ msgid "Credit"
+#~ msgstr "اعتبار"
+
+#~ msgid "Cannot delete ad"
+#~ msgstr "امکان حذف تبلیغ نیست."
+
+#~ msgid "Ad Deleted."
+#~ msgstr "تبلیغ حذف شد."
+
+#~ msgid "Cannot change status of ad"
+#~ msgstr "امکان تغییر وضعیت تبلیغ وجود ندارد."
+
+#~ msgid "Ad status changed."
+#~ msgstr "وضعیت تبلیغ تغییر کرد."
+
+#~ msgid "You cannot change status of this ad"
+#~ msgstr "شما امکان تغییر وضعیت تبلیغ را ندارید."
+
+#~ msgid "Ads"
+#~ msgstr "تبلیغ ها"
+
+#~ msgid "Ad Exchange"
+#~ msgstr "تبادل تبلیغ"
+
+#~ msgid "Sites"
+#~ msgstr "سایت ها"
+
+#~ msgid "Get Code"
+#~ msgstr "دریافت کد"
+
+#~ msgid "Users"
+#~ msgstr "کاربران"
+
+#~ msgid "Edit User Credit"
+#~ msgstr "ویرایش اعتبار کاربر"
+
+#~ msgid "Types"
+#~ msgstr "نوع ها"
+
+#~ msgid "Logs: Show"
+#~ msgstr "گزارش نمایش ها"
+
+#~ msgid "Logs: Click"
+#~ msgstr "گزارش کلیک ها"
+
+#~ msgid "Cannot delete cat"
+#~ msgstr "امکان حذف دسته نیست."
+
+#~ msgid "Cat Deleted."
+#~ msgstr "دسته حذف شد."
+
+#~ msgid "Copy code and paste in \"%s\" "
+#~ msgstr "کد زیر را کپی کنید و در سایت \"%s\" قرار دهید."
+
+#~ msgid "Sorry,You have not any active site."
+#~ msgstr "متاسفانه سایت فعالی ندارید."
+
+#~ msgid "Site"
+#~ msgstr "سایت"
+
+#~ msgid "size"
+#~ msgstr "سایز"
+
+#~ msgid "Position"
+#~ msgstr "جایگاه"
+
+#~ msgid "Top left"
+#~ msgstr "بالا چپ"
+
+#~ msgid "Top right"
+#~ msgstr "بالا راست"
+
+#~ msgid "Bottom left"
+#~ msgstr "پایین چپ"
+
+#~ msgid "Bottom right"
+#~ msgstr "پایین راست"
+
+#~ msgid "Show Type"
+#~ msgstr "نوع تبلیغ"
+
+#~ msgid "Text/Banner"
+#~ msgstr "متن/بنر"
+
+#~ msgid "Text"
+#~ msgstr "متن"
+
+#~ msgid "Mobie"
+#~ msgstr "موبایل"
+
+#~ msgid "Show Mobie Ads"
+#~ msgstr "نمایش تبلیغات موبایلی"
+
+#~ msgid "Credit of click:"
+#~ msgstr "اعتبار هر کلیک:"
+
+#~ msgid "Simple"
+#~ msgstr "ساده"
+
+#~ msgid "Float"
+#~ msgstr "شناور"
+
+#~ msgid "ad"
+#~ msgstr "تبلیغ"
+
+#~ msgid "ads"
+#~ msgstr "تبلیغ ها"
+
+#~ msgid "Not found any ad"
+#~ msgstr "هیچ تبلیغی یافت نشد."
+
+#~ msgid "Valid Click"
+#~ msgstr "کلیک معتبر"
+
+#~ msgid "Click"
+#~ msgstr "کلیک"
+
+#~ msgid "View"
+#~ msgstr "نمایش"
+
+#~ msgid "Create At"
+#~ msgstr "تاریخ"
+
+#~ msgid "Stat"
+#~ msgstr "وضعیت"
+
+#~ msgid "User ID"
+#~ msgstr "ID کاربر"
+
+#~ msgid "Edit"
+#~ msgstr "ویرایش"
+
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+#~ msgid "Active"
+#~ msgstr "فعال"
+
+#~ msgid "Deactive"
+#~ msgstr "غیرفعال"
+
+#~ msgid "Pending"
+#~ msgstr "معلق"
+
+#~ msgid "View Banner"
+#~ msgstr "نمایش بنر"
+
+#~ msgid "Ad with title "
+#~ msgstr "تبلیغ با عنوان "
+
+#~ msgid " deleted."
+#~ msgstr " حذف شد."
+
+#~ msgid " activated."
+#~ msgstr " فعال شد."
+
+#~ msgid " deactivated."
+#~ msgstr " غیر فعال شد."
+
+#~ msgid " pendinged."
+#~ msgstr " معلق شد."
+
+#~ msgid "My ads <span class=\"count\">(%s)</span>"
+#~ msgstr "تبیلغات من <span class=\"count\">(%s)</span>"
+
+#~ msgid "cat"
+#~ msgstr "دسته"
+
+#~ msgid "cats"
+#~ msgstr "دسته ها"
+
+#~ msgid "No cats found, dude."
+#~ msgstr "دسته ای یافت نشد."
+
+#~ msgid "Cat with name "
+#~ msgstr "دسته با نام"
+
+#~ msgid "No logs found"
+#~ msgstr "هیچ گزارش موجود نیست"
+
+#~ msgid "Ad Title"
+#~ msgstr "عنوان تبلیغ"
+
+#~ msgid "Time"
+#~ msgstr "زمان"
+
+#~ msgid "Valid?"
+#~ msgstr "معتبر؟"
+
+#~ msgid "OS"
+#~ msgstr "سیستم عامل"
+
+#~ msgid "Browser"
+#~ msgstr "مرورگر"
+
+#~ msgid "Repeat Click From Same Ip In Short Time"
+#~ msgstr "کلیک تکراری از یک IP در زمان مشخص"
+
+#~ msgid "Bad Operating System"
+#~ msgstr "سیستم عامل نامشخص"
+
+#~ msgid "Bad Browser"
+#~ msgstr "مرورگر نامشخص"
+
+#~ msgid "Bad Iframe Referer"
+#~ msgstr "رفرر آی فریم نامشخص"
+
+#~ msgid "Invalid IP"
+#~ msgstr "IP نامشخص"
+
+#~ msgid "No Referer Set"
+#~ msgstr "بدون رفرر"
+
+#~ msgid "Repeat Click From Same System In Short Time"
+#~ msgstr "کلیک تکراری از یک سیستم در زمان مشخص"
+
+#~ msgid "One User Click More Than 1 Time On Special Ad In Certian Time"
+#~ msgstr "کلیک بیش از یک بار روی این تبیلغ در زمان مشخص"
+
+#~ msgid "One User Click Multi Ads On Site In Certian Time"
+#~ msgstr "کلیک چندین تبلیغ روی تبلیغات یک سایت در زمان مشخص از یک کاربر"
+
+#~ msgid "Submited Site And Refere Site Not Match"
+#~ msgstr "سایت ثبت شده و سایت رفرر همخوانی ندارد."
+
+#~ msgid "Site Not Active"
+#~ msgstr "سایت فعال نیست."
+
+#~ msgid "Valid"
+#~ msgstr "معتبر"
+
+#~ msgid "Repeated Click"
+#~ msgstr "کلیک تکراری"
+
+#~ msgid "Invalid"
+#~ msgstr "نامعتبر"
+
+#~ msgid "All"
+#~ msgstr "همه"
+
+#~ msgid "My logs"
+#~ msgstr "گزارشات من"
+
+#~ msgid "Screen"
+#~ msgstr "صفحه"
+
+#~ msgid "site"
+#~ msgstr "سایت"
+
+#~ msgid "sites"
+#~ msgstr "سایت ها"
+
+#~ msgid "No sites found."
+#~ msgstr "سایتی یافت نشد."
+
+#~ msgid "Site with name "
+#~ msgstr "سایت با نام "
+
+#~ msgid "My Sites <span class=\"count\">(%s)</span>"
+#~ msgstr "سایت های من <span class=\"count\">(%s)</span>"
+
+#~ msgid "type"
+#~ msgstr "نوع"
+
+#~ msgid "types"
+#~ msgstr "نوع ها"
+
+#~ msgid "No types found, dude."
+#~ msgstr "نوع یافت نشد."
+
+#~ msgid "Size"
+#~ msgstr "حجم"
+
+#~ msgid "user"
+#~ msgstr "کاربر"
+
+#~ msgid "users"
+#~ msgstr "کاربران"
+
+#~ msgid "No users found, dude."
+#~ msgstr "کاربری یافت نشد."
+
+#~ msgid "Ads Total Valid Click"
+#~ msgstr "کلیک های دریافتی معتبر"
+
+#~ msgid "Ads Total View"
+#~ msgstr "نمایش تبلیغات"
+
+#~ msgid "Sites Total Click"
+#~ msgstr "کل کلیک در سایت ها این کاربر"
+
+#~ msgid "Sites Total View"
+#~ msgstr "کل نمایش تبلیغات در سایت های این کاربر"
+
+#~ msgid "user with name "
+#~ msgstr "کاربر با نام"
+
+#~ msgid "Credit: "
+#~ msgstr "اعتبار:"
+
+#~ msgid "Total Ads: "
+#~ msgstr "کل تبلیغ ها:"
+
+#~ msgid "Total Sites: "
+#~ msgstr "کل سایت ها:"
+
+#~ msgid "Valid Clicks"
+#~ msgstr "کلیک های معتبر"
+
+#~ msgid "Total Clicks"
+#~ msgstr "کل کلیک ها"
+
+#~ msgid "Views"
+#~ msgstr "نمایش ها"
+
+#~ msgid "Sorry,Form is not valid"
+#~ msgstr "متاسفانه فرم معتبر نیست."
+
+#~ msgid "Name is short"
+#~ msgstr "نام کوتاه است."
+
+#~ msgid "Title is short"
+#~ msgstr "عنوان کوتاه است."
+
+#~ msgid "Cat successfuly added"
+#~ msgstr "دسته با موفقیت اضافه شد."
+
+#~ msgid "Sorry,Cat not added"
+#~ msgstr "متاسفانه دسته اضافه نشد."
+
+#~ msgid "Cat successfuly edited"
+#~ msgstr "دسته با موفقیت ویرایش شد."
+
+#~ msgid "Sorry,Type not set"
+#~ msgstr "نوع تنظیم نشده."
+
+#~ msgid "HTML Ad successfuly added"
+#~ msgstr "تبلیغ HTML با موفقیت اضافه شد."
+
+#~ msgid "Sorry,Ad not added"
+#~ msgstr "متاسفانه تبلیغ اضافه نشد."
+
+#~ msgid "HTML Ad successfuly edited"
+#~ msgstr "تبلیغ HTML با موفقیت ویرایش شد."
+
+#~ msgid "Sorry,User Not Found"
+#~ msgstr "متاسفانه کاربر یافت نشد."
+
+#~ msgid "URL is not valid"
+#~ msgstr "URL معتبر نیست."
+
+#~ msgid "Please select cats"
+#~ msgstr "لطفا دسته را انتخاب کنید."
+
+#~ msgid "Banner not selected"
+#~ msgstr "بنر انتخاب نشده."
+
+#~ msgid "Banner size is Big"
+#~ msgstr "حجم بنر زیاد است."
+
+#~ msgid "Banner ext is not supported"
+#~ msgstr "نوع بنر پشتیبانی نمی شود."
+
+#~ msgid "Banner height is Big"
+#~ msgstr "ابعاد بنر صحیح نیست."
+
+#~ msgid "Banner width is Big"
+#~ msgstr "ابعاد بنر صحیح نیست."
+
+#~ msgid "Banner not uploaded"
+#~ msgstr "بنر آپلود نشده"
+
+#~ msgid "Banner Ad successfuly added"
+#~ msgstr "تبلیغ بنری با موفقیت اضافه شد."
+
+#~ msgid "Sorry,you cannot add more ad"
+#~ msgstr "متاسفانه امکان افزودن تبلیغ بیشتر نیست."
+
+#~ msgid "Banner Ad successfuly edited"
+#~ msgstr "تبلیغ با موفقیت ویرایش شد."
+
+#~ msgid "Domain is not valid"
+#~ msgstr "دامین صحیح نیست."
+
+#~ msgid "This domain already exist"
+#~ msgstr "دامین قبلا ثبت شده."
+
+#~ msgid "Site successfuly added"
+#~ msgstr "سایت با موفقیت اضافه شد."
+
+#~ msgid "Sorry,Site not added"
+#~ msgstr "متاسفانه سایت ثبت نشد."
+
+#~ msgid "Site successfuly edited"
+#~ msgstr "سایت با موفقیت ویرایش شد."
+
+#~ msgid "Text Ad successfuly added"
+#~ msgstr "تبلیغ با موفقیت اضافه شد."
+
+#~ msgid "Text Ad successfuly edited"
+#~ msgstr "تبلیغ با موفقیت ویرایش شد."
+
+#~ msgid "Width incorrect"
+#~ msgstr "عرض صحیح نیست."
+
+#~ msgid "Height incorrect"
+#~ msgstr "طول صحیح نیست."
+
+#~ msgid "Max size incorrect"
+#~ msgstr "حداکثر حجم صحیح نیست."
+
+#~ msgid "Cannot add more than 1 text type."
+#~ msgstr "امکان ثبت بیش از یک نوع متن وجود ندارد."
+
+#~ msgid "Cannot add more than 1 HTML type."
+#~ msgstr "امکان ثبت بیش از یک نوع HTML وجود ندارد."
+
+#~ msgid "Cannot add more than 1 mobile type."
+#~ msgstr "امکان ثبت بیش از یک نوع موبایل  وجود ندارد."
+
+#~ msgid "type successfuly added"
+#~ msgstr "نوع با موفقیت اضافه شد."
+
+#~ msgid "Sorry,type not added"
+#~ msgstr "متاسفانه نوع اضافه نشد."
+
+#~ msgid "type successfuly edited"
+#~ msgstr "نوع با موفقیت ویرایش شد."
+
+#~ msgid "Table with name"
+#~ msgstr "جدول با نام "
+
+#~ msgid " already exist, please enter other name."
+#~ msgstr "از قبل موجود است، لطفا یک نام دیگر انتخاب کنید."
+
+#~ msgid "Credit edited."
+#~ msgstr "اعتبار ویرایش شد."
+
+#~ msgid "Cannot delete site"
+#~ msgstr "امکان حذف سایت وجود ندارد."
+
+#~ msgid "Site Deleted."
+#~ msgstr "سایت حذف شد."
+
+#~ msgid "Cannot change status of site"
+#~ msgstr "امکان تغییر وضعیت این سایت نیست."
+
+#~ msgid "Site status changed."
+#~ msgstr "وضعیت سایت تغییر کرد."
+
+#~ msgid "Cannot get code"
+#~ msgstr "امکان دریافت کد نیست."
+
+#~ msgid "Cannot delete type"
+#~ msgstr "امکان حذف نوع نیست."
+
+#~ msgid "type Deleted."
+#~ msgstr "نوع حذف شد."
+
+#~ msgid "Cannot delete user"
+#~ msgstr "امکان حذف کاربر نیست."
+
+#~ msgid "user Deleted."
+#~ msgstr "کاربر حذف شد."
+
+#~ msgid "Image"
+#~ msgstr "عکس"
+
+#~ msgid "Max size"
+#~ msgstr "حداکثر حجم"
+
+#~ msgid "Add Type Cat"
+#~ msgstr "افزودن دسته نوع ها"
+
+#~ msgid "Type Cats"
+#~ msgstr "دسته های نوع ها"
+
+#~ msgid "No types cat found"
+#~ msgstr "دسته یافت نشد."
+
+#~ msgid "Type Cat successfuly added"
+#~ msgstr "دسته با موفقیت اضافه شد."
+
+#~ msgid "Sorry,Type Cat not added"
+#~ msgstr "متاسفانه دسته اضافه نشد."
+
+#~ msgid "Type Cat successfuly edited"
+#~ msgstr "دسته با موفقیت ویرایش شد."
+
+#~ msgid "Cannot delete type cat"
+#~ msgstr "امکان حذف دسته نوع وجود ندارد."
+
+#~ msgid "Type cat Deleted."
+#~ msgstr "دسته حذف شد."
+
+#~ msgid "Types Cats"
+#~ msgstr "دسته های نوع ها"
+
+#~ msgid "Statistics"
+#~ msgstr "آمار"
+
+#~ msgid "Ads:"
+#~ msgstr "تبلیغ ها:"
+
+#~ msgid "Cat"
+#~ msgstr "دسته"
+
+#~ msgid "Type incorrect"
+#~ msgstr "نوع صحیح نیست."
+
+#~ msgid "Mobile ad"
+#~ msgstr "موبایلی"
+
+#~ msgid "Credit of click"
+#~ msgstr "اعتبار دریافتی از هر کلیک"
+
+#~ msgid ""
+#~ "You can a domain like \"domain.com\" or sub domain like \"sub.domain.com\""
+#~ msgstr ""
+#~ "شما می توانید یک دامین مانند \"domain.com\" یا ساب دامین مثل \"sub.domain."
+#~ "com\" وارد کنید."
+
+#~ msgid "Total Valid Click"
+#~ msgstr "کل کلیک های معتبر"
+
+#~ msgid "Total View"
+#~ msgstr "کل نمایش تبلیغات"
+
+#~ msgid "Mine <span class=\"count\">(%s)</span>"
+#~ msgstr "مال من <span class=\"count\">(%s)</span>"
+
+#~ msgid "All <span class=\"count\">(%s)</span>"
+#~ msgstr "همه <span class=\"count\">(%s)</span>"
+
+#~ msgid "No sites found, dude."
+#~ msgstr "سایت یافت نشد."
+
+#~ msgid "Add Ads"
+#~ msgstr "افزودن تبلیغ"
